@@ -16,7 +16,7 @@ const Login = () => {
   return (
     <div className="card border-2 border-stone-200 w-2xs h-full bg-gray-50">
       <h1 className='text-2xl font-bold mt-10 pl-5'>
-        Sign in to Your <br /> PopX Account
+        Signing to Your <br /> PopX Account
       </h1>
       <p className='pl-5 mt-3 text-stone-400'>
         Lorem ipsum dolor sit amet <br /> consectetur adipisicing elit.
